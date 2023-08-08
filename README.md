@@ -1,5 +1,7 @@
 # alurabook
-Projeto feito durante o curso de responsividade da Alura
+Projeto feito durante o curso de responsividade da Alura <br>
+
+Acesse o site em: https://frdbrq.github.io/alurabook/ <br><br>
 <img src="https://img.shields.io/github/issues/frdbrq/alurabook" />
 <img src="https://img.shields.io/github/forks/frdbrq/alurabook" />
 <img src="https://img.shields.io/github/stars/frdbrq/alurabook" />
