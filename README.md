@@ -31,13 +31,13 @@ Educação online e Comunidade. Confira como ficou:
 
  Também adicionamos cor de fundo e de texto enquanto navegamos pelo menu CATEGORIAS
  <h1 align="center">
-  <img alt="Alura-plus" title="#alura" src="./screenshot/cabecalho_tablet_e_pc" />
+  <img alt="Alura-plus" title="#alura" src="./screenshot/cabecalho_tablet_e_pc.png" />
 </h1>
 
 A estilização do menu se manteve para o computador, e também colocamos a sessão de últimos lançamentos<br>
 e o possível interesse do usuário lado a lado, mesma coisa para a sessão dos mais vendidos.
 <h1 align="center">
-  <img alt="Alura-plus" title="#alura" src="./screenshot/carrossel_e_card" />
+  <img alt="Alura-plus" title="#alura" src="./screenshot/carrossel_e_card.png" />
 </h1>
 
 ### 🎲 Executando a Aplicação
