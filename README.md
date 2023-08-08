@@ -19,22 +19,22 @@ Projeto feito durante o curso de responsividade da Alura
   <img alt="Alura-plus" title="#alura" src="./screenshot/versao_mobile.png" />
 </h1>
 
-###Foto da versão do tablet
+### Foto da versão do tablet
 <h1 align="center">
   <img alt="Alura-plus" title="#alura" src="./screenshot/versao_tablet.png" />
 </h1>
-###O maior desafio aqui nesta versão foi o footer, onde separamos em três listas, Educação <br>
+### O maior desafio aqui nesta versão foi o footer, onde separamos em três listas, Educação <br>
 Educação online e Comunidade. Confira como ficou:
 <h1 align="center">
   <img alt="Alura-plus" title="#alura" src="./screenshot/footer_tablet.png" />
 </h1>
 
- ###Também adicionamos cor de fundo e de texto enquanto navegamos pelo menu CATEGORIAS
+ ### Também adicionamos cor de fundo e de texto enquanto navegamos pelo menu CATEGORIAS
  <h1 align="center">
   <img alt="Alura-plus" title="#alura" src="./screenshot/cabecalho_tablet_e_pc.png" />
 </h1>
 
-###A estilização do menu se manteve para o computador, e também colocamos a sessão de últimos lançamentos<br>
+### A estilização do menu se manteve para o computador, e também colocamos a sessão de últimos lançamentos<br>
 e o possível interesse do usuário lado a lado, mesma coisa para a sessão dos mais vendidos.
 <h1 align="center">
   <img alt="Alura-plus" title="#alura" src="./screenshot/carrossel_e_card.png" />
