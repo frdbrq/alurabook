@@ -14,7 +14,7 @@ Projeto feito durante o curso de responsividade da Alura
 
 ### Fotos
 =================<br>
-###Foto da versão mobile
+### Foto da versão mobile
 <h1 align="center">
   <img alt="Alura-plus" title="#alura" src="./screenshot/versao_mobile.png" />
 </h1>
@@ -23,8 +23,9 @@ Projeto feito durante o curso de responsividade da Alura
 <h1 align="center">
   <img alt="Alura-plus" title="#alura" src="./screenshot/versao_tablet.png" />
 </h1>
+
 ### O maior desafio aqui nesta versão foi o footer, onde separamos em três listas, Educação <br>
-Educação online e Comunidade. Confira como ficou:
+### Educação online e Comunidade. Confira como ficou:
 <h1 align="center">
   <img alt="Alura-plus" title="#alura" src="./screenshot/footer_tablet.png" />
 </h1>
@@ -35,7 +36,7 @@ Educação online e Comunidade. Confira como ficou:
 </h1>
 
 ### A estilização do menu se manteve para o computador, e também colocamos a sessão de últimos lançamentos<br>
-e o possível interesse do usuário lado a lado, mesma coisa para a sessão dos mais vendidos.
+### e o possível interesse do usuário lado a lado, mesma coisa para a sessão dos mais vendidos.
 <h1 align="center">
   <img alt="Alura-plus" title="#alura" src="./screenshot/carrossel_e_card.png" />
 </h1>
